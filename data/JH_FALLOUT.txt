@@ -1,0 +1,45 @@
+Readme file for JH_Fallout font. April.07.2002 Version 0.98
+
+:: DESCRIPTION ::
+
+This font should be about 95% true to the original used in the game. The slight difference comes from two things:
+
+1. Some minor changes to the way the font looks to improve readability.
+2. The way Windows deals with antialiasing (or edge-smoothening).
+3. My obsession with straight edges and symmetrical design.
+
+Most people shouldn’t notice any difference anyway.
+
+:: CHANGES ::
+
+Several characters added and some changed. I'm trying to get a sharper, cleaner look while sticking as close as I can to the original.
+
+Also making the foreign chars is a real pain in the ass, so I just abandoned them for now (some are in, but not all). If you really need them e-mail me - if enough people ask I'll put them in.
+
+:: INSTRUCTIONS ::
+
+If you don’t have it already, turn “Smooth edges of screen fonts” on. Windows XP users should use the Standard method and not ClearType.
+
+You should only use the font on a dark background (black is best), due to the way Windows does the antialiasing. Recommended color is RGB(0,224,0) as it gives better shading, but if you must pure green (aka Lime) RGB(0,255,0) will work too.
+
+Even more important than the color is the size. It has to be size 6 to look right. While using size 12 to get double-size chars might give some semi-usable results it’s not recommended.
+
+Also I’d recommend making any text in Paint as higher level apps have their own ways of setting size and edge-smoothening which can only fuck things up.
+
+:: TERMS OF USE ::
+
+1. No commercial use. This is a free (well, money wise anyway) font so don’t try to make any money with it.
+2. Distribute only the complete set: Font file + Readme file.
+3. Do not modify the font or the readme.
+4. Once you have installed the font your soul belongs to me. It’s a one-time deal that can’t be canceled and does not get canceled when you stop using the font. Also there are no returns or replacements. I’m serious.
+
+:: ADITIONAL INFO ::
+
+Copyright 2002 Joiro Hatagaya. All rights reserved.
+Fallout is a trademark of Interplay Productions.
+
+Mail any feedback or suggestions to: JOIRO@LATNET.LV
+
+[EOF]
+
+
